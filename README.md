@@ -54,7 +54,7 @@ The Core Packages
 
 
 **References**
-[1]:https://www.golang-book.com/books/intro "Golang-book.com"
-[2]:https://www.geeksforgeeks.org/golang/ "GeeksforGeeks"
-[3]:https://tour.golang.org "GoTour"
+[1]:https://www.golang-book.com/books/intro "Golang-book.com"\
+[2]:https://www.geeksforgeeks.org/golang/ "GeeksforGeeks"\
+[3]:https://tour.golang.org "GoTour"\
 
