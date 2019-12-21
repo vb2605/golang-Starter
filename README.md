@@ -1,7 +1,7 @@
 # golang-Starter
 This repo is created to understand golang and its key concepts.
 
-Basics
+# Basics
     Scope
     Constants & Variables
     Functions
@@ -9,22 +9,15 @@ Basics
         For
         If
         Switch
-Your First Program
-    How to Read a Go Program
-    Types
+# Data types
     Numbers
     Strings
     Booleans
-Variables
-    How to Name a Variable
-    Scope
-    Constants
-    Defining Multiple Variables
-    An Example Program
-Arrays, Slices and Maps
+# Arrays, Slices and Maps
     Arrays
     Slices
     Maps
+    Rune
 Functions
     Your Second Function
     Returning Multiple Values
